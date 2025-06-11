@@ -1,0 +1,15 @@
+{
+  "name": "rpg-two-electric-boogaloo",
+  "version": "1.0.0",
+  "description": "RPG remake of the OG from 2021",
+  "main": "src/main/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "author": "Florian Hagemann",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^36.4.0"
+  }
+}
