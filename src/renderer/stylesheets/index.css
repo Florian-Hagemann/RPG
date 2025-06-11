@@ -1,0 +1,11 @@
+div {
+    text-align: center;
+}
+#buttons {
+    display: flex;
+    flex-direction: column;
+}
+button {
+    margin: 5%;
+    padding: 5%;
+}
